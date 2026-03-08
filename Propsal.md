@@ -249,7 +249,6 @@ Unlike Kubernetes pods or Slurm jobs, Nomad uses an evaluation â†’ allocation â†
 ### Availability
 
 - **Hours per week:** 15-20 hours (medium project)
-- **Other commitments:** [mention any exams, jobs, etc.]
 - **Communication:** Available on Metaflow Slack, GitHub, and email. Can adapt to mentor's preferred timezone for sync meetings.
 
 ---
